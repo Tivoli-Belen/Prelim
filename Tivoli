@@ -1,1 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tivoli Jaerold S. Belen Resume</title>
+    <style>
+        body {
+            font-family: 'Times New Roman', serif;
+            margin: 1in; 
+            line-height: 1.5;
+        }
+        h1 {
+            text-align: center;
+            font-size: 24px;
+            font-weight: bold;
+        }
+        hr {
+            border: 1px solid black;
+        }
+        .contact-info {
+            text-align: center;
+            margin-bottom: 20px;
+        }
+        .section-title {
+            font-size: 14pt;
+            font-weight: bold;
+            margin-top: 20px;
+            text-decoration: underline;
+        }
+        .content {
+            margin-left: 30px;
+            font-size: 12pt;
+        }
+        .signature {
+            margin-top: 40px;
+            text-align: center;
+        }
+        .signature p {
+            margin-bottom: 0;
+        }
+    </style>
+</head>
+<body>
 
+    <h1>TIVOLI JAEROLD S. BELEN</h1>
+    <div class="contact-info">
+        <p>307 Zone 4. Sto, Niño Baliwag, Bulacan</p>
+        <p>Email: <a href="mailto:tivolibelen19@gmail.com">tivolibelen19@gmail.com</a> | Contact No.: 0935-325-0132</p>
+    </div>
+    <hr>
+
+    <div class="section-title">Objective:</div>
+    <p class="content">
+        Seeking an entry-level IT technician position to utilize my skills in troubleshooting and hardware maintenance, eager 
+        eager to contribute to a dynamic team and provide technical support to improve a system performance and customer satisfaction.
+    </p>
+    <hr>
+
+    <div class="section-title">Educational Attainment:</div>
+    <div class="content">
+        <p><strong>Tertiary:</strong> Baliwag Polytechnic College, Baliuag, Bulacan<br>
+        S.Y.: 2021 - Present</p>
+
+        <p><strong>Secondary:</strong> Sto. Niño High School<br>
+        S.Y.: 2014 – 2021</p>
+
+        <p><strong>Primary:</strong>Immanuel Grace Christian Academy of Baliuag<br>
+        S.Y.: 2008 - 2014</p>
+    </div>
+    <hr>
+
+    <div class="section-title">Personal Information:</div>
+    <div class="content">
+        <p><strong>Date of Birth:</strong> April 18, 2002</p>
+        <p><strong>Age:</strong> 22 years old</p>
+        <p><strong>Place of Birth:</strong> Baliwag, Bulacan</p>
+        <p><strong>Gender:</strong> Male</p>
+        <p><strong>Religion:</strong> Iglesia Ni Cristo</p>
+        <p><strong>Nationality:</strong> Filipino</p>
+        <p><strong>Civil Status:</strong> Single</p>
+    </div>
+    <hr>
+
+    <p>I hereby declare that the above information is true and correct to the best of my knowledge and belief.</p>
+
+    <div class="signature">
+        <p>____________________________</p>
+        <p>TIVOLI JAEROLD S. BELEN</p>
+        <p>Student</p>
+    </div>
+
+</body>
+</html>
